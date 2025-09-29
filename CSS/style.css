@@ -1,0 +1,161 @@
+html{
+	scroll-behavior: smooth;
+}
+*{
+	text-decoration: none;
+	box-sizing: border-box;
+}
+.navbar{ 
+	position: sticky;
+	top:8px ;
+	background:white; font-family: Oskari G2 Medium; padding-right: 25px; padding-left: 25px; border-radius: 15px;
+}
+.navdiv{
+	padding-top: 3px;
+	display: flex; align-items: center; justify-content: space-between; 
+}
+li{
+	list-style: none; display: inline-block;
+}
+.cont{
+	font-family: Oskari G2 Regular;
+	font-size: 35px;
+	text-align: center;
+	color: white;
+}
+p{
+	font-family: Oskari G2 Medium;
+}
+.page-2 p{
+	font-family: Oskari G2 Medium;
+	font-size: 35px;
+	text-align: center;
+}
+li a{
+	color: black; font-size: 24px; margin-right: 35px; text-align: center;
+}
+body{
+	background-color: #1e1e1e;
+	background-image: url('../Images/pranav-loop.gif');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.title-page{
+	text-align: center;
+	font-family: Oskari G2 Regular;
+	color: white;
+	margin-top: 25%;
+	margin-bottom: 25%;
+}
+
+.hh{
+	text-align: center;
+	font-family: Oskari G2 Regular;
+	color: white;
+}
+
+.page-2 h1{
+	font-family: Oskari G2 Medium;
+	font-size: 35px;
+	text-align: center;
+}
+
+.page-2 p{
+	font-family: Oskari G2 Regular;
+	font-size: 30px;
+	text-align: center;
+}
+
+.div01{
+	float: left;
+	width: 24%;
+	padding-bottom: 5px;
+	background-color: white;
+	border-radius: 15px;
+	margin-right: 1%;
+	box-sizing: border-box;
+}
+.div02{
+	float: left;
+	width: 24%;
+	padding-bottom: 5px;
+	background-color: white;
+	border-radius: 15px;
+	margin-right: 1%;
+	box-sizing: border-box;
+}
+.div03{
+	float: left;
+	width: 24%;
+	padding-bottom: 5px;
+	background-color: white;
+	border-radius: 15px;
+	margin-right: 1%;
+	box-sizing: border-box;
+}
+.div04{
+	float: left;
+	width: 24%;
+	padding-bottom: 5px;
+	background-color: white;
+	border-radius: 15px;
+	box-sizing: border-box;
+}
+
+.div-con{
+	float: left;
+	width: 60%;
+	padding-right: 2%;
+	margin-top: 40px;
+}
+.div-img{
+	margin-top: 40px;
+	float: left;
+	width: 38%;
+
+}
+.div-img img{
+	width: 560px;
+	border-radius: 15px;
+}
+h2{
+	font-family: Oskari G2;
+	font-size: 150px;
+	color: white;
+}
+.page-3 p{
+	font-family: Oskari G2 Regular;
+	font-size: 30px;
+	color: white;
+}
+
+.footercont{
+	width: 100%;
+	text-align: center;
+}
+.footernav{
+	font-family: Oskari G2;
+	font-size: 30px	;
+	background-color: white;
+	border-radius: 10px;
+}
+.footerbot {
+	font-family: Oskari G2;
+	background-color: white;
+	border-radius: 10px;
+}
+h3{
+	font-family: Oskari G2;
+	font-size: 100px;
+	color: white;
+	text-align: center;
+}
+.contact {
+	text-align: center;
+	padding-top: 320px;
+	padding-bottom: 350px;
+
+}
